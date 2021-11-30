@@ -3905,5 +3905,12 @@ input, select, textarea {
 			#intro {
 				background-attachment: scroll;
 			}
+/* Gif-Anim */
+			#gifs-rows img {
+				cursor: pointer;
+			}
+			#gifs-rows .gif-file {
+				display:none;
+			}
 
 		}
