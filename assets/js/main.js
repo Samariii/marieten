@@ -186,5 +186,11 @@
 
 				}
 			});
+	//Image Hover Effect
+	
+	$("img", "#gifs-rows").hover(function() {
+		$('.preset-file').toggle();
+		$('.gif-file').toggle();
+	});
 
 })(jQuery);
