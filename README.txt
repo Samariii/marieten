@@ -1,3 +1,3 @@
 Contact:
-E-Mail - samdreher20@gmail.com
+E-Mail - marie@marieten.com
 Discord - MarieDev#2361
